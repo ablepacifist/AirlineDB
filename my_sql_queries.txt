@@ -1,0 +1,18 @@
+// ri - gives top 10 routes with most incidents
+
+//------------------------------
+//ai - gives airlines with least incidents
+//------------------------------
+//lc - list top 5 countrys with most arrivals
+
+//------------------------------
+//at <airport> - gives a list of flights leaving a airport. Search using ICAO code
+
+//------------------------------
+//ta <airport> - shows top five aircraft leaving an airport. Search using ICAO code
+
+//------------------------------
+//apl <country> - lists airports by popularity in a country. Search using ICAO code. Search using DAFIF code
+
+//------------------------------
+//f <to> <from> - Search for flights going from airport to airport. Search using ICAO code

@@ -1,0 +1,8 @@
+SELECT  [icaoCode]
+      ,[iataCode]
+      ,[cityName]
+      ,[country]
+      ,[latitude]
+      ,[longitude]
+      ,[altitude]
+  FROM [cs3380].[dyakina].[airports]
